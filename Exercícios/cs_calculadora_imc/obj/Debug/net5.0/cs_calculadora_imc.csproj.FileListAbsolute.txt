@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/cs_calculadora_imc
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/cs_calculadora_imc.deps.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/cs_calculadora_imc.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/cs_calculadora_imc.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/cs_calculadora_imc.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/ref/cs_calculadora_imc.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/bin/Debug/net5.0/cs_calculadora_imc.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/ref/cs_calculadora_imc.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora_imc/obj/Debug/net5.0/cs_calculadora_imc.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/cs_inverte_nome
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/cs_inverte_nome.deps.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/cs_inverte_nome.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/cs_inverte_nome.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/cs_inverte_nome.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/ref/cs_inverte_nome.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/bin/Debug/net5.0/cs_inverte_nome.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/ref/cs_inverte_nome.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_inverte_nome/obj/Debug/net5.0/cs_inverte_nome.genruntimeconfig.cache

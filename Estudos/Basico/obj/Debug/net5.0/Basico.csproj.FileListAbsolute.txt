@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/Basico
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/Basico.deps.json
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/Basico.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/Basico.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/Basico.dll
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/ref/Basico.dll
+/home/enya/Documentos/Code/C#/Basico/bin/Debug/net5.0/Basico.pdb
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.dll
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/ref/Basico.dll
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.pdb
+/home/enya/Documentos/Code/C#/Basico/obj/Debug/net5.0/Basico.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/OlaMundo
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/OlaMundo.deps.json
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/OlaMundo.runtimeconfig.json
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/OlaMundo.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/OlaMundo.dll
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/ref/OlaMundo.dll
+/home/enya/Documentos/Code/C#/OlaMundo/bin/Debug/net5.0/OlaMundo.pdb
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.dll
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/ref/OlaMundo.dll
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.pdb
+/home/enya/Documentos/Code/C#/OlaMundo/obj/Debug/net5.0/OlaMundo.genruntimeconfig.cache
