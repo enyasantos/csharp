@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/cs_fibonacci
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/cs_fibonacci.deps.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/cs_fibonacci.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/cs_fibonacci.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/cs_fibonacci.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/ref/cs_fibonacci.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/bin/Debug/net5.0/cs_fibonacci.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/ref/cs_fibonacci.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_fibonacci/obj/Debug/net5.0/cs_fibonacci.genruntimeconfig.cache

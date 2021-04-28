@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/cs_conversor_temperatura
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/cs_conversor_temperatura.deps.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/cs_conversor_temperatura.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/cs_conversor_temperatura.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/cs_conversor_temperatura.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/ref/cs_conversor_temperatura.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/bin/Debug/net5.0/cs_conversor_temperatura.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/ref/cs_conversor_temperatura.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_conversor_temperatura/obj/Debug/net5.0/cs_conversor_temperatura.genruntimeconfig.cache

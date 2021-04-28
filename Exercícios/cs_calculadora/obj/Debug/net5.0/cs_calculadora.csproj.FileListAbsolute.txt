@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/cs_calculadora
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/cs_calculadora.deps.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/cs_calculadora.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/cs_calculadora.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/cs_calculadora.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/ref/cs_calculadora.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/bin/Debug/net5.0/cs_calculadora.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/ref/cs_calculadora.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_calculadora/obj/Debug/net5.0/cs_calculadora.genruntimeconfig.cache

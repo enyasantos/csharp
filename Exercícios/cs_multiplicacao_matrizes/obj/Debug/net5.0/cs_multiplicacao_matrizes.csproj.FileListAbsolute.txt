@@ -1,0 +1,16 @@
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/cs_multiplicacao_matrizes
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/cs_multiplicacao_matrizes.deps.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/cs_multiplicacao_matrizes.runtimeconfig.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/cs_multiplicacao_matrizes.runtimeconfig.dev.json
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/cs_multiplicacao_matrizes.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/ref/cs_multiplicacao_matrizes.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/bin/Debug/net5.0/cs_multiplicacao_matrizes.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.csprojAssemblyReference.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.AssemblyInfoInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.AssemblyInfo.cs
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.csproj.CoreCompileInputs.cache
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/ref/cs_multiplicacao_matrizes.dll
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.pdb
+/home/enya/Documentos/Code/C#/Exercícios/cs_multiplicacao_matrizes/obj/Debug/net5.0/cs_multiplicacao_matrizes.genruntimeconfig.cache
