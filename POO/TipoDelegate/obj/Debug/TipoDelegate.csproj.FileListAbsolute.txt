@@ -1,0 +1,7 @@
+C:\Curso\POO\TipoDelegate\bin\Debug\TipoDelegate.exe.config
+C:\Curso\POO\TipoDelegate\bin\Debug\TipoDelegate.exe
+C:\Curso\POO\TipoDelegate\bin\Debug\TipoDelegate.pdb
+C:\Curso\POO\TipoDelegate\obj\Debug\TipoDelegate.csprojAssemblyReference.cache
+C:\Curso\POO\TipoDelegate\obj\Debug\TipoDelegate.csproj.CoreCompileInputs.cache
+C:\Curso\POO\TipoDelegate\obj\Debug\TipoDelegate.exe
+C:\Curso\POO\TipoDelegate\obj\Debug\TipoDelegate.pdb

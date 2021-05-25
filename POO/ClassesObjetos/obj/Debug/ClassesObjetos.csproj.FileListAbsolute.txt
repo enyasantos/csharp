@@ -1,0 +1,7 @@
+C:\Curso\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe.config
+C:\Curso\POO\ClassesObjetos\bin\Debug\ClassesObjetos.exe
+C:\Curso\POO\ClassesObjetos\bin\Debug\ClassesObjetos.pdb
+C:\Curso\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csprojAssemblyReference.cache
+C:\Curso\POO\ClassesObjetos\obj\Debug\ClassesObjetos.csproj.CoreCompileInputs.cache
+C:\Curso\POO\ClassesObjetos\obj\Debug\ClassesObjetos.exe
+C:\Curso\POO\ClassesObjetos\obj\Debug\ClassesObjetos.pdb
